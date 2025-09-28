@@ -1,0 +1,11 @@
+date,product_id,category,price,discount_pct,units,in_stock
+2025-06-01,P100,Wearables,199.0,0.1,120,True
+2025-06-02,P100,Wearables,199.0,0.0,60,True
+2025-06-03,P200,Home,49.0,0.15,220,True
+2025-06-03,P300,Kitchen,89.0,0.0,30,False
+2025-06-04,P100,Wearables,199.0,0.2,240,True
+2025-06-05,P200,Home,49.0,0.0,80,True
+2025-06-05,P400,Outdoors,149.0,0.05,55,True
+2025-06-06,P500,Fitness,79.0,0.0,15,False
+2025-06-07,P300,Kitchen,89.0,0.1,140,True
+2025-06-08,P600,Pets,39.0,0.0,20,True
