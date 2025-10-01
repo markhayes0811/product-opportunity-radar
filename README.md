@@ -1,4 +1,4 @@
-# Product Opportunity Radar — Mark Hayes
+# Product Opportunity Radar 
 
 A demo that ranks product opportunities using unmet demand (search gaps), price-sensitivity, review pain points, and competitor gaps. Includes lifecycle-aligned GitHub Issue templates.
 
